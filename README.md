@@ -1,4 +1,4 @@
-# Decrypto
+# Decrypto in Tamil
 
 https://nagarajanSnapwiz.github.io/decrypto-tamil/
 
