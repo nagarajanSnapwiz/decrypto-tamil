@@ -1,6 +1,6 @@
 # Decrypto
 
-https://nagarajanSnapwiz.github.io/decrypto/
+https://nagarajanSnapwiz.github.io/decrypto-tamil/
 
 ## Decrypto - How To Play
 
