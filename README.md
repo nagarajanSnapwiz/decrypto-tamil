@@ -1,6 +1,6 @@
 # Decrypto
 
-https://whoawhoa.github.io/decrypto/
+https://nagarajanSnapwiz.github.io/decrypto/
 
 ## Decrypto - How To Play
 
